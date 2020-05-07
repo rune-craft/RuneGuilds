@@ -3,6 +3,8 @@ package org.runecraft.runeguilds;
 import org.runecraft.runecore.User;
 import org.runecraft.runeguilds.enums.Office;
 
+import java.util.Optional;
+
 public class GuildMember {
     private User owner;
     private Guild guild;
