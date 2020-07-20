@@ -6,9 +6,9 @@ import java.util.Optional;
 public enum Office {
     OWNER(1),SUB_LEADER(2),MEMBER(3);
 
-    private int id;
+    private final int id;
 
-    private Office(int id){
+    Office(int id){
         this.id = id;
     }
 

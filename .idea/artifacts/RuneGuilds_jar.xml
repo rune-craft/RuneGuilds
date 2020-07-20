@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="RuneGuilds:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/RuneGuilds_jar</output-path>
+    <root id="archive" name="RuneGuilds.jar">
+      <element id="module-output" name="RuneGuilds.main" />
+    </root>
+  </artifact>
+</component>
